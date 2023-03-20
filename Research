@@ -1,5 +1,8 @@
 From https://en.wikipedia.org/wiki/List_of_AMD_processors_with_3D_graphics#%22Raven_Ridge%22_(2018):
   AMD 2400GE Pro (PN YD240BC6M4MFB):
+    Code Name: Raven Ridge
+    Family 23 (17h) Model 17 (Found at https://en.wikichip.org/wiki/amd/cpuid)
+    CPUID 0x8	0xF	0x1	0x1 (Found at https://en.wikichip.org/wiki/amd/cpuid)
     Socket: AM4
     TDP: 35 W
     Cores: 4
@@ -28,3 +31,7 @@ Also found following information on above link:
     AMD SenseMI Technology
     AMD "Zen" Core Architecture
     DASH 1.2
+
+Following Quote from https://en.wikichip.org/wiki/amd/microarchitectures/zen:
+  "Note: WikiChip's testing shows FMA4 still works despite not being officially supported and not even reported by CPUID. This has also been confirmed by Agner here
+  (https://agner.org/optimize/blog/read.php?i=838). Those tests were not exhaustive. Never use them in production."
