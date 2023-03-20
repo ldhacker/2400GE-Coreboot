@@ -38,3 +38,5 @@ Also found following information on above link:
 Following Quote from https://en.wikichip.org/wiki/amd/microarchitectures/zen:
   "Note: WikiChip's testing shows FMA4 still works despite not being officially supported and not even reported by CPUID. This has also been confirmed by Agner here
   (https://agner.org/optimize/blog/read.php?i=838). Those tests were not exhaustive. Never use them in production."
+
+Good video link for flashing bios chip: https://www.youtube.com/watch?v=WyItt8FJWIs
