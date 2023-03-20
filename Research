@@ -16,8 +16,15 @@ From https://en.wikipedia.org/wiki/List_of_AMD_processors_with_3D_graphics#%22Ra
       Unified Shaders: 704
       Texture Mapping Units: 44
       Render Output Units: 16
-      Compute Units: Not listed (If found, will update)
+      Compute Units: 11
       Freq: 1.25 GHz
       Processing Power: 1.76 TFLOPS
 
 Confirmed above information on https://www.amd.com/en/product/7786
+
+Also found following information on above link:
+  Supported Technologies
+  AMD GuardMI Technology
+  AMD SenseMI Technology
+  AMD "Zen" Core Architecture
+  DASH 1.2
