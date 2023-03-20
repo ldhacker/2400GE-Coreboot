@@ -1,0 +1,21 @@
+From https://en.wikipedia.org/wiki/List_of_AMD_processors_with_3D_graphics#%22Raven_Ridge%22_(2018):
+  AMD 2400GE Pro (PN YD240BC6M4MFB):
+    Socket: AM4
+    TDP: 35 W
+    Cores: 4
+    Threads: 8
+    Base Freq: 3.2 GHz
+    Boost Freq: 3.8 GHz
+    Cache:
+      L1: 32KB Per Core, 128KB Total
+      L2: 512KB Per Core, 2MB Total
+      L3: 4MB Total
+    Memory Support: DDR4-2933 Dual Channel
+    Features: MMX, SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, SSE4a, AMD64, AMD-V, AES, CLMUL, AVX, AVX 1.1, AVX2, FMA3, F16C, ABM, BMI1, BMI2, RDRAND, Turbo Core
+    Integrated GPU Model: RX Vega 11
+      Unified Shaders: 704
+      Texture Mapping Units: 44
+      Render Output Units: 16
+      Compute Units: Not listed (If found, will update)
+      Freq: 1.25 GHz
+      Processing Power: 1.76 TFLOPS
